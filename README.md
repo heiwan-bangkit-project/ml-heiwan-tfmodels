@@ -1,6 +1,5 @@
 # Machine Learning_Multiclass Classifications_Heiwan
 <br />
-<pre>
 
   This repository contains the Notebook that we made during our model creation progress. <br/>
   The Notebook contains the code that we use for pipelining the data, augmenting, Transfer Learning, Fine Tuning, etc. <br/>
@@ -8,6 +7,5 @@
 
   C23-PS291 ML Teams. 
   
-</pre>
 
 
